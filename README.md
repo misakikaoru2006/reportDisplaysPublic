@@ -1,6 +1,6 @@
 # reportDisplaysPublic
 
-<image src=2020_1129_1310_46.jpg"/>
+<image src="2020_1129_1310_46.jpg"/>
 
 現在のディスプレイの状態をテキストとサムネイルでレポートします。
 
